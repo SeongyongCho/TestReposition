@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">테스트 보관</string>
+    <string name="main_description">다양한 코드와 git 연습.</string>
+</resources>
