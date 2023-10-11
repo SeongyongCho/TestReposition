@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.csy.testreposition"
+    namespace = "com.csy.app.testreposition"
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "com.csy.testreposition"
+        applicationId = "com.csy.app.testreposition"
         minSdk = 29
         targetSdk = 31
         versionCode = 1

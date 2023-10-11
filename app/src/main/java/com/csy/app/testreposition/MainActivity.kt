@@ -1,4 +1,4 @@
-package com.csy.testreposition
+package com.csy.app.testreposition
 
 import android.app.Activity
 import android.os.Bundle
